@@ -1,0 +1,7 @@
+{
+  "dataset_name": "Medals Total",
+  "source": "https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games/data?select=medals_total.csv",
+  "description": "Medal count for countries that participated in the 2024 Paris Olympic Games.",
+  "main_fields": ["country_code", "country", "Gold Medal", "Silver Medal", "Bronze Medal", "Total"],
+  "collection_date": "08/10/2024"
+}
