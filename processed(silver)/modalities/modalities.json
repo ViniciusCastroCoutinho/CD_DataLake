@@ -1,0 +1,4 @@
+{
+    "description": "All olympic modalities from 1896 to 2024",
+    "fields": ["sport"]
+}

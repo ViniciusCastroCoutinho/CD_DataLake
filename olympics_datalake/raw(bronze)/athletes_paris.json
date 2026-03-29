@@ -1,7 +1,0 @@
-{
-  "dataset_name": "Paris 2024 Olympic Summer Games - Athletes",
-  "source": "https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games/data?select=athletes.csv",
-  "description": "All athletes that participated in the 2024 Paris Olympic Games.",
-  "main_fields": ["name", "gender", "country_code", "country", "disciplines", "events"],
-  "collection_date": "08/10/2024"
-}

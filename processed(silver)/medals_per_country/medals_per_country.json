@@ -1,0 +1,4 @@
+{
+    "description": "Total olympic medals per country from 1896 to 2024",
+    "fields": ["country_noc", "country", "total"]
+}

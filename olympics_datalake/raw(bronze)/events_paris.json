@@ -1,7 +1,0 @@
-{
-  "dataset_name": "Paris 2024 Olympic Summer Games - Events",
-  "source": "https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games/data?select=events.csv",
-  "description": "All events for the Paris 2024 Olympic Summer Games",
-  "main_fields": ["event", "sport"],
-  "collection_date": "08/10/2024"
-}

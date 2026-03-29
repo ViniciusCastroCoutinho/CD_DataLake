@@ -1,0 +1,4 @@
+{
+    "description": "Gender count of all athletes that participated from 1896 to 2024",
+    "fields": ["country_noc", "country", "total"]
+}
